@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 
 - 🔭 I’m currently working on ... all things technical documentation.
 - 🌱 I’m currently learning ... Docs-as-Code, MkDocs, node.js, WordPress plug-ins
@@ -10,4 +9,4 @@
   - https://github.com/ns1labs/pktvisor-website/graphs/contributors
 
 
--->
+
