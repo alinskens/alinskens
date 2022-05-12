@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on ... all things technical documentation.
+- 🔭 I’m currently working on ... all things technical documentation and using more and more Docs-as-Code tools.
 
-- 🌱 I’m currently learning ... Docs-as-Code, MkDocs, node.js, WordPress plug-ins.
+- 🌱 I’m currently learning ... Jekyll, Sphinx, node.js, D3.js, WordPress plug-ins.
 
 - 👯 I’m looking to collaborate on ... documentation for open-source projects.
 
